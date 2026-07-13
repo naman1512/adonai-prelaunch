@@ -16,7 +16,7 @@ export default function Home() {
 
   const nameRef = useRef<HTMLInputElement>(null);
 
-  const SHEET_URL = "https://script.google.com/macros/s/AKfycbygn8HpZsGO1yPw3mNxQkAMGQZ6MG-CAzbLlKHVhFUtosl_lKbteXofyKymmi80vAFS/exec"; // <- paste your Google Apps Script URL
+  const SHEET_URL = "https://script.google.com/macros/s/AKfycbytp_d4aFYXm4mm1nQnvQb3Ec-Uii9FrPh8bwWiMTrQIv92mJwrkTeDrkEcroI1kgI4/exec";
 
   // Focus name field after expansion animation settles
   useEffect(() => {
