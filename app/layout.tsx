@@ -27,6 +27,9 @@ const jetbrains = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Adonai Reserve — Coming Soon",
   description: "Adonai Reserve — Premium fashion, built by grace. Launching soon.",
+  icons: {
+    icon: "/favicon-white.png",
+  },
 };
 
 export default function RootLayout({
