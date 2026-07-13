@@ -25,7 +25,7 @@ const jetbrains = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Adonai Reserve — Preparing to Open",
+  title: "Adonai Reserve",
   description: "Forged in faith. Built by grace. Request private access to the inaugural collection.",
   icons: {
     icon: "/favicon-white.png",
