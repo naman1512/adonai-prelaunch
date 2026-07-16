@@ -142,9 +142,9 @@ export default function Home() {
                       placeholder="FIRST NAME"
                       spellCheck={false}
                       autoComplete="given-name"
-                      className="w-full bg-transparent border-none outline-none font-mono py-2 text-center placeholder:text-white/35 focus:placeholder:text-transparent"
+                      className="w-full bg-transparent border-none outline-none font-mono py-2 text-center placeholder:text-white/35 focus:placeholder:text-transparent text-base"
                       style={{
-                        fontSize: "14px",
+                        fontSize: "16px",
                         letterSpacing: "0.18em",
                         color: "#f0ece4",
                         textShadow: "0 1px 8px rgba(0,0,0,0.6)"
@@ -170,9 +170,9 @@ export default function Home() {
                       placeholder="EMAIL ADDRESS"
                       spellCheck={false}
                       autoComplete="email"
-                      className="w-full bg-transparent border-none outline-none font-mono py-2 text-center placeholder:text-white/35 focus:placeholder:text-transparent"
+                      className="w-full bg-transparent border-none outline-none font-mono py-2 text-center placeholder:text-white/35 focus:placeholder:text-transparent text-base"
                       style={{
-                        fontSize: "14px",
+                        fontSize: "16px",
                         letterSpacing: "0.18em",
                         color: "#f0ece4",
                         textShadow: "0 1px 8px rgba(0,0,0,0.6)"
